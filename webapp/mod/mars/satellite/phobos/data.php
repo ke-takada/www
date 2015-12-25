@@ -1,3 +1,5 @@
 <?php
 
-this is dummy...
+I am red
+I am red
+I am red
